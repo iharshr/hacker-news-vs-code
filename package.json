@@ -2,7 +2,7 @@
   "name": "hacker-news-vscode-text-only",
   "displayName": "Hacker News in VSCode (text only)",
   "description": "Browse Hacker News stories, comments, and linked articles as markdown inside VSCode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "iharshr",
   "repository": {
     "type": "git",

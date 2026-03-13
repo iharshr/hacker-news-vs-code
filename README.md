@@ -4,7 +4,7 @@ Browse Hacker News stories, comments, and linked articles as markdown inside VSC
 
 ## Demo
 
-![Extension Demo](demo.gif)
+![Extension Demo](https://raw.githubusercontent.com/iharshr/hacker-news-vs-code/refs/heads/main/demo.gif)
 
 ## Features
 
@@ -39,6 +39,12 @@ Browse Hacker News stories, comments, and linked articles as markdown inside VSC
 - No images displayed (text only by design)
 
 ## Release Notes
+
+### 1.0.1
+made repo public
+
+### 1.0.0
+added readme
 
 ### 0.0.1
 
