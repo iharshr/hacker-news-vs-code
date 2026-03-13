@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git checkout:*)",
+      "Bash(node -e \"console.log\\(JSON.parse\\(require\\('fs'\\).readFileSync\\('package.json'\\)\\)\\)\")",
+      "Bash(npm install:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npm list:*)",
+      "Bash(npx -y typescript tsc --noEmit)",
+      "Bash(./node_modules/.bin/tsc --noEmit)",
+      "Bash(cd \"C:\\\\Users\\\\Harsh\\\\Documents\\\\Github\\\\hacker-news-vs-code\" && npx --package=typescript tsc --noEmit src/types.ts)",
+      "Bash(mkdir -p dist && npm run compile)",
+      "Bash(curl -s -o /c/Users/Harsh/Documents/Github/hacker-news-vs-code/media/favicon.ico https://news.ycombinator.com/favicon.ico)",
+      "Bash(ffmpeg -i /c/Users/Harsh/Documents/Github/hacker-news-vs-code/media/favicon.ico -vf scale=128:128 /c/Users/Harsh/Documents/Github/hacker-news-vs-code/media/icon.png 2>&1)",
+      "Bash(npm run:*)",
+      "Bash(npx vsce:*)"
+    ]
+  }
+}
