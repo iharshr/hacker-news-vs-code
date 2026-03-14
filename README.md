@@ -1,6 +1,7 @@
 # Hacker News in VSCode (text only)
 
 Browse Hacker News stories, comments, and linked articles as markdown inside VSCode. A distraction-free, text-only reading experience that looks like documentation, not a social media site.
+[Install from VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=iharshr.hacker-news-vscode-text-only)
 
 ## Demo
 
